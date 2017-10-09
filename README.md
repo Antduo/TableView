@@ -1,7 +1,7 @@
 # TableView
-封装tableView
+封装tableView,集成了MJRefresh,轻松实现下拉刷新,上拉加载更多功能。同时使代码更简洁,更好维护!详细使用请查看demo.
 
-### USED
+### 使用
 ```
 - (void)viewDidLoad {
     [super viewDidLoad];
